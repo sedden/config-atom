@@ -1,11 +1,17 @@
 "*":
+  core:
+    openEmptyEditorOnStart: false
+    projectHome: "/Users/stefan/Development"
+  editor:
+    fontSize: 13
+    invisibles:
+      space: "‧"
   "exception-reporting":
-    userId: "5ea08e1e-5eec-7881-278b-20e1b18f6e7d"
+    userId: "6ace3be3-eaec-89e1-054f-07e1ea2475a2"
+  "git-projects":
+    rootPath: "/Users/stefan/Development"
+  "linter-puppet-lint":
+    executablePath: "/Users/stefan/.rbenv/shims/puppet-lint"
+    oldVersion: false
   welcome:
     showOnStartup: false
-  core: {}
-  editor:
-    invisibles: {}
-    fontSize: 13
-  "linter-puppet-lint":
-    oldVersion: true
