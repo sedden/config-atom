@@ -10,6 +10,8 @@
     userId: "6ace3be3-eaec-89e1-054f-07e1ea2475a2"
   "git-projects":
     rootPath: "/Users/stefan/Development"
+  "linter-chktex":
+    executablePath: "/Library/TeX/texbin/chktex",
   "linter-puppet-lint":
     executablePath: "/Users/stefan/.rbenv/shims/puppet-lint"
     oldVersion: false
