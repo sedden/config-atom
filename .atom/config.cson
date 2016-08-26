@@ -3,7 +3,6 @@
     openEmptyEditorOnStart: false
     projectHome: "/Users/stefan/Development"
   editor:
-    fontSize: 12
     invisibles:
       space: "‧"
   "exception-reporting":
